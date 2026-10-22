@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Test reports and generated results
+allure-results/
+allure-report/
+reports/
+report.html
+report.xml
+
+# Screenshots generated during test execution
+screenshots/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
