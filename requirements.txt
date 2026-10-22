@@ -1,3 +1,5 @@
 pytest
 requests
 locust
+playwright
+pytest-playwright
