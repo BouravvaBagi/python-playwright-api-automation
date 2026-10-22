@@ -3,3 +3,4 @@ requests
 locust
 playwright
 pytest-playwright
+allure-pytest
